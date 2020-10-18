@@ -1,3 +1,4 @@
-# Basic-shooting-game-using-pygame
-This is a basic 2D shooting game made using pygame.
-Folder requirements contians all the required images and audios files.
+# Basic-shooting-game-using-pygame <br/>
+This is a basic 2D shooting game made using pygame. <br/>
+Folder requirements contians all the required images and audio files. <br/>
+You can start the game by running main.py file. Make sure you have installed pygame before. <br/>
